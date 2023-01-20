@@ -23,7 +23,7 @@ docker run -it --rm --name my-app my-image-python
  docker push vanessakovalsky/my-image-python
 ```
 
-## Création d'un pod kubernetes
+## Création d'un pod kubernetes :
 
 ```sh
 kubectl apply -f manifest-k8s
